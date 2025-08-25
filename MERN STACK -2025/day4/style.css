@@ -1,0 +1,23 @@
+h3{
+    color:green
+
+}
+*{
+    background-color: lightgray;
+}
+
+#id {
+    color:yellow
+}
+
+.class {
+    background-color: orange;
+}
+
+div p{
+    background-color: red;
+}
+
+p{
+    background-color: green;
+}
