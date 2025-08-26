@@ -1,0 +1,48 @@
+
+.login{
+    text-align: right;
+    padding: 10px;
+    
+}
+.section1{
+    background-color: rgb(204, 188, 188);
+    height: 475px;
+}
+
+.div2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:rgb(173, 50, 50);
+    text-transform: uppercase;
+}
+
+.desc,p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+}
+
+.img1 img{
+    border: black,dashed;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+
+
+.section2 h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-indent: 2px;
+    background-color: white;
+    letter-spacing: 1.4px;
+}
+.section2 .div3 h3{
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.section3 h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-indent: 2px;
+    background-color: white;
+    text-transform: uppercase;
+    letter-spacing: 1.4px;
+}

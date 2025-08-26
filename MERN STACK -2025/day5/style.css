@@ -1,0 +1,9 @@
+
+div{
+    display:flexbox
+}
+img{
+    border: solid;
+    border-radius: 50%;
+    height:auto;
+}
