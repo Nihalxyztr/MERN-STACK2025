@@ -1,6 +1,6 @@
 
 div{
-    display:flexbox
+    display:grid;
 }
 img{
     border: solid;
