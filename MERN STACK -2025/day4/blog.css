@@ -46,3 +46,22 @@
     text-transform: uppercase;
     letter-spacing: 1.4px;
 }
+header{
+    position: sticky;
+    top:0;
+    z-index: 1000;
+    background-color: white;
+
+}
+
+nav img{
+    height: 50px;
+    align-self: center;
+    float: left;
+    
+
+}
+.nav1{
+    background-color: white;
+    height: 20px;
+}
