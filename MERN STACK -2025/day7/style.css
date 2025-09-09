@@ -1,0 +1,19 @@
+div{
+    width: 100px;
+    background: orange;
+    height: 100px;
+    transition-duration: 20s;
+    transition-property:height;
+    transition-delay: 2s;
+    
+    
+   
+}
+
+div:hover{
+    height: 250px;
+}
+*{
+    background-color: #212121;
+    color: #fff;
+}
