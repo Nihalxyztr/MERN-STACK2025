@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        nav{
+            display:flex;
+            background-color:black;
+            color:white;
+            justify-content:space-between;
+            align-items: center;
+            padding:10px;
+        }
+        .left {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height:20px;
+}
+        .left div {
+          width:25px;
+          height:3px;
+          background:white;
+}
+        ul{
+            list-style:none;
+            display:flex;
+            gap:10px;
+        }
+        p{
+            text-align:center;
+            margin:0;
+        }
+
+    </style>
+</head>
+<body>
+    <nav>
+        <input type="checkbox" name="menu-toggle" id="" style="display:none">
+        <div class="left">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+        <div class="center">
+            <p>University Portal</p>
+        </div>
+        <div class="right">
+            <ul>
+                <li>Home</li>
+                <li>About</li>
+                <li>Contact</li>
+            </ul>
+        </div>
+    </nav>
+    <main>
+        <h2>Welocme To university Portal</h2>
+    </main>
+</body>
+</html>
