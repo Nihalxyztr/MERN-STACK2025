@@ -28,7 +28,7 @@
     height: 50px;
     width: 50px;
    margin:5px;
-   float: right;
+   float:right;
    
 
 }
@@ -38,6 +38,6 @@
     width: 50px;
    margin:5px;
    float: right;
-   align-self: baseline;
+   align-self:baseline;
 
 }
